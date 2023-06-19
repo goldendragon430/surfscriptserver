@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.47c20cb6.css",
+    "main.js": "/dashboard/static/js/main.0819e6b4.js",
+    "static/js/498.920f74ba.chunk.js": "/dashboard/static/js/498.920f74ba.chunk.js",
+    "static/js/825.8dbbfef0.chunk.js": "/dashboard/static/js/825.8dbbfef0.chunk.js",
+    "static/js/548.81772ab7.chunk.js": "/dashboard/static/js/548.81772ab7.chunk.js",
+    "static/js/186.c393f348.chunk.js": "/dashboard/static/js/186.c393f348.chunk.js",
+    "static/js/586.9b260034.chunk.js": "/dashboard/static/js/586.9b260034.chunk.js",
+    "static/js/706.d7fb3b62.chunk.js": "/dashboard/static/js/706.d7fb3b62.chunk.js",
+    "static/js/199.466b9a8a.chunk.js": "/dashboard/static/js/199.466b9a8a.chunk.js",
+    "static/js/852.915f062b.chunk.js": "/dashboard/static/js/852.915f062b.chunk.js",
+    "static/js/318.3aa225a8.chunk.js": "/dashboard/static/js/318.3aa225a8.chunk.js",
+    "static/js/739.16f1493b.chunk.js": "/dashboard/static/js/739.16f1493b.chunk.js",
+    "static/js/411.4577b8ef.chunk.js": "/dashboard/static/js/411.4577b8ef.chunk.js",
+    "static/js/354.209162ba.chunk.js": "/dashboard/static/js/354.209162ba.chunk.js",
+    "static/js/844.8c8d23db.chunk.js": "/dashboard/static/js/844.8c8d23db.chunk.js",
+    "static/js/640.406d686c.chunk.js": "/dashboard/static/js/640.406d686c.chunk.js",
+    "static/js/76.e6974cf2.chunk.js": "/dashboard/static/js/76.e6974cf2.chunk.js",
+    "static/js/374.59081795.chunk.js": "/dashboard/static/js/374.59081795.chunk.js",
+    "static/js/108.d79c5399.chunk.js": "/dashboard/static/js/108.d79c5399.chunk.js",
+    "static/js/3.7bab132f.chunk.js": "/dashboard/static/js/3.7bab132f.chunk.js",
+    "static/js/88.8863759e.chunk.js": "/dashboard/static/js/88.8863759e.chunk.js",
+    "static/media/logo.svg": "/dashboard/static/media/logo.6892851952c7739940d6c39b8c6a5e4d.svg",
+    "static/media/AI.svg": "/dashboard/static/media/AI.08467cd2557b6d2f682b60842cb27551.svg",
+    "index.html": "/dashboard/index.html",
+    "static/media/social-google.svg": "/dashboard/static/media/social-google.a57081bd95c2519caad91216a8dba3ad.svg",
+    "static/media/You.svg": "/dashboard/static/media/You.ecd19046fceb6c89713dc90626723ec7.svg"
+  },
+  "entrypoints": [
+    "static/css/main.47c20cb6.css",
+    "static/js/main.0819e6b4.js"
+  ]
+}
